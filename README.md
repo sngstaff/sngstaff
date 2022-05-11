@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my page 👋
+
+I'm currently working on fintech project
 
 <!--
 **sngstaff/sngstaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![image title](https://rushter.com/counter.svg)
